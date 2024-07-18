@@ -1,0 +1,85 @@
+
+
+
+
+.destinations-header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+.destinations-header h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+.destinations-header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+-------------------------------------------------------------
+
+.destinations-search {
+    background-color: #fff;
+    text-align: center;
+}
+.destinations-search input {
+    padding: 10px;
+    width: 60%;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.destinations-search button {
+    padding: 10px 20px;
+    background-color: #f4a300;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.filters {
+    margin: 20px 20px 20px 150px;
+}
+.filters select {
+    padding: 10px;
+    margin: 5px ;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+--------------------------------------------------------------------------------------
+.destination-categories {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+.destination-categories h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #333;
+}
+.categories {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.category {
+    width: 23%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.category img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.category h3 {
+    font-size: 1.5em;
+    color: #444;
+}
+.category p {
+    font-size: 1em;
+    color: #666;
+}
+
+
